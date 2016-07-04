@@ -1,0 +1,6 @@
+C:\Users\milos\OneDrive\Dokumenty\GitHub\ChatGlobal\DreamChat\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\milos\OneDrive\Dokumenty\GitHub\ChatGlobal\DreamChat\obj\Debug\DreamChat.njsprojResolveAssemblyReference.cache
+D:\TOP SECRET\ChatGlobal\DreamChat\obj\Debug\DreamChat.njsprojResolveAssemblyReference.cache
+D:\TOP SECRET\ChatGlobal\DreamChat\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Brano\Documents\GitHub\ChatGlobal\DreamChat\obj\Debug\DreamChat.njsprojResolveAssemblyReference.cache
+C:\Users\Brano\Documents\GitHub\ChatGlobal\DreamChat\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,37 @@
+﻿body {
+    margin: 0px;
+    background-color: #673ab7 !important;
+    font-weight: 400;
+    color: #ffffff !important;
+}
+
+.header{
+    height:210px;
+    background-color: #673ab7 !important;
+    background-image: url("logo-dream-chat-bg391.png");
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+.app-bar{
+  background-color: #EF6C00 !important;
+}
+
+.login{
+    height:126px;
+    background-image: url("login dream chat with bg317.png");
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+.login-content{
+     font-weight: 400;
+     color: #ffffff !important;
+}
+
+.register{
+    height:126px;
+    background-image: url("logo_register.png");
+    background-repeat: no-repeat;
+    background-position: center; 
+}

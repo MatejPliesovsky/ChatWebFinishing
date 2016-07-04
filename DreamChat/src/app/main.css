@@ -1,0 +1,36 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  font-size: 13px;
+      margin: 0px;
+}
+
+.login-form{
+      text-align: center;
+}
+
+.text-center{
+      text-align: center;
+}
+
+.register-form{
+  text-align: center;
+}
+
+.user-desk-form{
+  margin-left: 256px;
+}
+
+.contactListFull{
+  min-height: 80%;
+}
+
+.search > div:first-child{
+  width: 200px !important;
+}
+
+.Drawer > div:first-child{
+  margin-top: 3.5% !important;
+}
